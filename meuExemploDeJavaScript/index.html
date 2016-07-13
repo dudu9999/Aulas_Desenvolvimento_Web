@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>exemplo javascript</title>
+	<meta charset="utf-8">
+
+	<script type="text/javascript"></script>
+</head>
+<body>
+	<h1>code javascript</h1>
+	<!--
+	<button id="demo">
+		Click me
+	</button>
+	<script>
+		var elem = document.getElementByld("demo");
+		elem.onclick = function(){
+			alert("Clicked");
+		};
+	</script> -->
+
+	<script>
+		var btn = document.getElementByld("demo");
+		btn.addEventListener("Click",myFunction);
+
+		function myFunction(){
+			alert(Math.random());
+			btn.removeEventListener("Click",myFunction);
+		}
+	</script>
+
+</body>
+</html>

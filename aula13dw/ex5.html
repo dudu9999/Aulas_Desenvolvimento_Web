@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<meta charset="utf-8">
+<head>
+	<title>exemplo 5 - javaScript</title>
+</head>
+<body>
+<form>
+<input type="text" id="txtnome" placeholder="NOME">
+
+<button id="botao">ver nome</button>
+
+<button id="botaolimpar" hidden="true">limpar</button>
+</form>
+
+<script type="text/javascript">
+	document.getElementById("botao").onclick = function(){
+		var nome = document.getElementById("txtnome").value;
+		alert("seu nome é: "+nome);
+
+	}//fecha function
+
+	document.getElementById("txtnome").onkeypress = function(){
+		document.getElementById("botaolimpar").hidden=false;
+	}
+
+	document.getElementById("botaolimpar").onclick = function(){
+		document.getElementById("txtnome").value = "";
+	}
+
+</script>
+</body>
+</html>

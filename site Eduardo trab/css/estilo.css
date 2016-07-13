@@ -1,0 +1,101 @@
+/* Nosso css*/
+
+	.container, .conteiner-fluid{
+		padding-left: 15px;
+		padding-right: 15px;
+		background-color: #f9f9f9;
+	}
+
+	.row{
+		margin-bottom: 0px;
+	}
+
+	[class*="col-" ],header,footer,nav,aside,section,div[role="main"]{
+		padding-top: 15px;
+		
+		background-color: #f5f5f5;
+		background-color: rgba(0,0,0,0);
+		border: 1px solid #ddd;
+		border: 1px solid rgba(81,61,124,.2);
+		text-align: center;
+
+	}
+	div[role="main"]{
+		background-color: #fff;
+		}
+
+		div[role="main"], nav, aside{
+			height: 600px;
+		}
+
+	.bemvindo{
+		background-color: #1976d2;
+		width: 100%;
+		height: 40px;
+		color: white;
+		font-size: 30px;
+		}
+
+	.dropdown{
+		position: relative;	
+	}	
+
+
+	}
+	.menu1{
+		
+	}
+	.divlogin{
+		background-color: #1976d2;
+		width: 100%;
+		height: 40px;
+		font-color: black;
+		color: white;
+		
+		
+	}
+	.divlogin2{
+		
+		margin-left: 570px;
+		
+	}
+	.input1{
+			font-color: black;
+		color: black;
+	}
+
+	.panel-body{
+		text-align: justify;
+	}
+	.btncadastro{
+		color: white;
+		text-decoration: none;
+	}
+
+	.container{
+		background: url(img\fundo_fundatec.png);
+		background-repeat: no-repeat;
+		background-size: 100%;
+			}
+
+	.panel{
+		
+	}
+
+	footer{
+		background-color: #42a5f5;
+		color: white;
+	}
+
+	a{ 
+ 	text-decoration:none; 
+	} 
+
+.painel1{
+	width: 300px;
+}
+
+.banner{
+	margin-bottom: 20px;
+	margin-top: 20px; 
+}

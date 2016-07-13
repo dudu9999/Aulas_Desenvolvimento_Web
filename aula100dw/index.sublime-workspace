@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"result"
+			],
+			[
+				"di",
+				"dividir"
+			],
+			[
+				"mu",
+				"multiplicar"
+			],
+			[
+				"v1",
+				"v1"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"rd",
+				"rdSelect"
+			],
+			[
+				"val",
+				"val2"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tx",
+				"txtnome4"
+			],
+			[
+				"txt",
+				"txtnome3"
+			],
+			[
+				"t",
+				"txtnome"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"bota",
+				"botaolimpar"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onmo",
+				"onmouseup	Attr"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"bo",
+				"botao1"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"style",
+				"text-decoration-style"
+			],
+			[
+				"colr",
+				"color"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"m",
+				"myFunction"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"border-bo",
+				"border-bottom-style"
+			],
+			[
+				"boo",
+				"border-top"
+			],
+			[
+				"border",
+				"border-right-color"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"au",
+				"autofocus	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"TEX",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Documentos/Documents/Dw/aula14dw/index.html",
+			"settings":
+			{
+				"buffer_size": 865,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documentos/Documents/Dw/aula14dw/js/script.js",
+			"settings":
+			{
+				"buffer_size": 1106,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documentos/Documents/Dw/site Eduardo trab/index.html",
+			"settings":
+			{
+				"buffer_size": 5218,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documentos/Documents/Dw/aula7formulario/formulario.html",
+			"settings":
+			{
+				"buffer_size": 621,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Documentos/Documents/Dw/site Eduardo trab/css/estilo.css",
+			"settings":
+			{
+				"buffer_size": 1304,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Documentos/Documents/Dw/aula7formulario",
+		"/D/Documentos/Documents/Dw/site Eduardo trab",
+		"/D/Documentos/Documents/Dw/site Eduardo trab/css",
+		"/D/Documentos/Documents/Dw/site Eduardo trab/pagina fundaec offline",
+		"/D/Documentos/Documents/Dw/aula14dw",
+		"/D/Documentos/Documents/Dw/aula14dw/js"
+	],
+	"file_history":
+	[
+		"/D/Documentos/Documents/Dw/site Eduardo trab/index.html",
+		"/D/Documentos/Documents/Dw/aula13dw/ex6.html",
+		"/D/Documentos/Documents/Dw/site Eduardo trab/css/estilo.css",
+		"/D/Documentos/Documents/Dw/aula13dw/ex5.html",
+		"/D/Documentos/Documents/Dw/aula13dw/ex4.html",
+		"/D/Documentos/Documents/Dw/aula13dw/ex3.html",
+		"/D/Documentos/Documents/Dw/aula13dw/ex2.html",
+		"/D/Documentos/Documents/Dw/aula13dw/ex1.html",
+		"/D/Documentos/Documents/Dw/aula13dw/code",
+		"/D/Documentos/Documents/Dw/aula13dw/index.html",
+		"/D/Documentos/Documents/Dw/site Eduardo trab/testeSite.html",
+		"/D/Documentos/Documents/Dw/site Eduardo trab/js/meucodejava.js",
+		"/D/Documentos/Documents/Dw/site Eduardo trab/testeSite2.html",
+		"/D/Documentos/Documents/Dw/aula7formulario/formulario.html",
+		"/D/Documentos/Documents/Dw/site Eduardo trab/cadastro.html",
+		"/D/Documentos/Documents/Dw/aula11dw/index.html",
+		"/D/Documentos/Documents/Dw/aula100dw/index.html",
+		"/D/Documentos/Documents/Dw/aula100dw/css/estilo.css",
+		"/D/Documentos/Documents/Dw/meuExemploDeJavaScript/index.html",
+		"/D/Documentos/Documents/Dw/meuExemploDeJavaScript/javascriptcode",
+		"/D/Documentos/Documents/Dw/meuExemploDeJavaScript/estilo.css",
+		"/D/Documentos/Documents/Dw/aula12javaScript/index.html",
+		"/D/Documentos/Documents/Dw/aula11dw/css/estilo.css",
+		"/D/Documentos/Documents/Dw/jogo offline html/https___www.google.com.br_search_q=vrgfsd&oq=vrgfsd&aqs=chrome..69i57.704j0j7&sourceid=chrome&ie=UTF-8 não está disponível.html",
+		"/C/Users/Eduardo/Desktop/aula100dw/index.html",
+		"/D/Documentos/Documents/Dw/T-Rex Game/T-Rex Game..html",
+		"/C/Users/Eduardo/Desktop/aula10dw/css/estilo.css",
+		"/C/Users/Eduardo/Desktop/aula10dw/index.html",
+		"/D/Documentos/Documents/Dw/google loging/index.html",
+		"/D/Documentos/Documents/Dw/google loging/style.css",
+		"/D/Documentos/Documents/Dw/official google loging/indexGoogle.html",
+		"/C/Users/Eduardo/Desktop/responsivo2/index.html",
+		"/C/Users/Eduardo/Desktop/responsivo2/estilo.css",
+		"/C/Users/Eduardo/Desktop/aula9dw/estilo.css",
+		"/C/Users/Eduardo/Desktop/aula9dw/estilo5.css",
+		"/C/Users/Eduardo/Desktop/aula9dw/estilo4.css",
+		"/C/Users/Eduardo/Desktop/aula9dw/estilo3.css",
+		"/C/Users/Eduardo/Desktop/aula9dw/estilo2.css",
+		"/C/Users/Eduardo/Desktop/aula9dw/estilo1.css",
+		"/C/Users/Eduardo/Desktop/aula9dw/index.html",
+		"/D/Documentos/Documents/Dw/aula7formulario/tset.html",
+		"/D/Documentos/Documents/Dw/aula7dw/index.html",
+		"/D/Documentos/Documents/Dw/aula7formulario/index.html",
+		"/D/Documentos/Documents/Dw/aula6dw/estilo.css",
+		"/D/Documentos/Documents/Dw/aula7dw/style.css",
+		"/D/Documentos/Documents/Dw/aula6dw/index.html"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Eduardo\\Desktop\\aula100dw",
+			"C:\\Users\\Eduardo\\Desktop\\aula100dw,"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"calcular",
+			"cada",
+			"cadas",
+			"panel-body",
+			"img",
+			"centro",
+			"IMg",
+			"img",
+			"runner",
+			"control-buttons",
+			"runner-canvas",
+			"webkitAppaerance",
+			"display=\"none\"",
+			"script {",
+			"script{",
+			"script",
+			"script {display: none;",
+			"script {display: none;}",
+			"script {\n    display: none;\n}",
+			"function Y",
+			"funcion",
+			"funcion Y",
+			"Y",
+			"block",
+			"Y",
+			"block",
+			"galego",
+			"bold",
+			"*/",
+			"/*",
+			"<!--",
+			"Google colorido"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"D:\\Documentos\\Documents\\Dw\\aula100dw",
+			"-->",
+			"<!--"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Documentos/Documents/Dw/aula14dw/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Documentos/Documents/Dw/aula14dw/js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								935,
+								942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Documentos/Documents/Dw/site Eduardo trab/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3309,
+								3309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Documentos/Documents/Dw/aula7formulario/formulario.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Documentos/Documents/Dw/site Eduardo trab/css/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								1220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 2405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

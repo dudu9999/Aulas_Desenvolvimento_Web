@@ -1,0 +1,72 @@
+
+					
+						/*
+						table{
+							
+							border-style: solid;
+							border-width: 5px;
+							
+						}
+						 lINHA body 
+						tr:nth-child(2n+1){
+							background-color: #757575;
+							border-color: #999;
+							border-style: solid;
+							border-width: 2px;
+							border-collapse: collapse;
+
+				
+						td{
+							background-color: #ffd740;
+							border-color: #ffd740;
+							border-style: solid;
+							border-width: 2px;
+							border-collapse: collapse;
+						}}*/
+
+						td, th, tr, table{							
+							border-width: 2px;
+							border-style: solid;
+							border-collapse: collapse;
+							border-color: black;
+							}
+
+						.colunaimg{
+							background-color: #90a4ae;
+							text-align: center;
+						}
+
+						.coluna1{
+							background-color: gray;
+							text-align: center;
+						}
+						.coluna2{
+							background-color: #8bc34a;
+							text-align: center;
+						}
+
+						.coluna3{
+							background-color: #673ab7;	
+							text-align: center;
+						}
+						.coluna4{
+							background-color: #00acc1;
+							text-align: center;
+						}
+						.coluna5{
+							background-color: #ffeb3b;
+							text-align: center;
+						}
+						.coluna6{
+							background-color: #ab47bc;
+							text-align: center;
+						}
+						.coluna7{
+							background-color: #ff80ab;
+							text-align: center;
+						}
+
+						.site{
+							background-color: #F443366;
+							text-align: center;
+						}

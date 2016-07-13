@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        button{
+            border: 0;
+            padding: 35px 50px;
+            font-weight: bolder;
+            color: #fff;
+        }
+    </style>
+    <script>
+
+    function mudaCor(el){
+        el.style.backgroundColor = '#'+Math.floor(Math.random()*16777215).toString(16);
+    }
+
+    </script>
+</head>
+<body>
+    <button onclick="mudaCor(this)">Test</button>
+</body>
+</html>
